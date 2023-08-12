@@ -1,0 +1,5 @@
+É um framework JAVA que tem o objetivo de facilitar o desenvolvimento de aplicações, otimizando tempo 
+nos fornece um servidor padrão embutido que é o Tomcat, ao qual depois de criar uma aplicação já colocar pra rodar.
+Além do servidor embutido, temos várias outras funcionalidades que podemos usar dentro do Spring, vinculado aos dados e etc.
+Vamos aprender a como usar o Spring e como desenvolver com ele.
+

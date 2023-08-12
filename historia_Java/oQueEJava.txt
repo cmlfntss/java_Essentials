@@ -1,0 +1,6 @@
+Java é uma linguagem muito conhecida e amplamente usada no mercado.
+Java é uma linguagem de programação e plataforma de computação, criada em 1985, multiplataforma orientada
+a objetos, usada em desenvolvimento de jogos, APIS e microsserviços e etc.
+Possuí várias bibliotecas qaue ajudam no desenvolvimento e frameworks, pode ser executada em diversas 
+plataformas.
+Sua comunidade é bem ativa, contribuí, sugere melhorias, principalmente no BR.
